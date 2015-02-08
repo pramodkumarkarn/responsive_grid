@@ -1,0 +1,15 @@
+/* Smartphones (portrait and landscape) */
+
+@media screen and (max-width: 480px) {
+	.row {
+		width: 100%;
+		max-width: 100%;
+		min-width: 100%;
+		margin: 0;
+		padding: 0 30px!important; }
+	.col {
+		float: none;
+		width: 100%;
+		max-width: 100%;
+		min-width: 100%; }
+}

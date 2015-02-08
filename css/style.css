@@ -1,0 +1,182 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* custom resets */
+a, a:active, a:hover {
+  outline: 0;
+  background: transparent; }
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/* variables */
+/* grid */
+/* global */
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* grid */
+.row {
+  max-width: 1280px;
+  min-width: 1024px;
+  margin: 0 auto;
+  overflow: auto;
+  clear: both; }
+
+.row > .col > .row {
+  width: 100%;
+  min-width: inherit;
+  max-width: inherit;
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+  .row > .col > .row .col {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+.col {
+  float: left;
+  padding: 2.34375%;
+  overflow: hidden; }
+
+.row .col.span-1 {
+  width: 8.33333%; }
+
+.row .col.span-2 {
+  width: 16.66667%; }
+
+.row .col.span-3 {
+  width: 25%; }
+
+.row .col.span-4 {
+  width: 33.33333%; }
+
+.row .col.span-5 {
+  width: 41.66667%; }
+
+.row .col.span-6 {
+  width: 50%; }
+
+.row .col.span-7 {
+  width: 58.33333%; }
+
+.row .col.span-8 {
+  width: 66.66667%; }
+
+.row .col.span-9 {
+  width: 75%; }
+
+.row .col.span-10 {
+  width: 83.33333%; }
+
+.row .col.span-11 {
+  width: 91.66667%; }
+
+.row .col.span-12 {
+  width: 100%; }
+
+.row > .col.centered {
+  margin: 0 auto;
+  float: none; }
+
+/* Smartphones (portrait and landscape) */
+@media screen and (max-width: 780px) {
+  .row {
+    width: 100%;
+    max-width: 780px;
+    min-width: 480px;
+    margin: 0 auto; }
+    .row .col.span-1,
+    .row .col.span-2,
+    .row .col.span-3,
+    .row .col.span-4,
+    .row .col.span-5,
+    .row .col.span-6,
+    .row .col.span-7,
+    .row .col.span-8,
+    .row .col.span-9,
+    .row .col.span-10,
+    .row .col.span-11 {
+      width: 50%; }
+    .row .col.span-12 {
+      width: 100%; } }
+/* Smartphones (portrait and landscape) */
+@media screen and (max-width: 480px) {
+  .row {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    margin: 0;
+    padding: 0 30px !important; }
+
+  .col {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%; } }

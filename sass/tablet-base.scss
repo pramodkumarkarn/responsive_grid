@@ -1,0 +1,23 @@
+/* Smartphones (portrait and landscape) */
+@media screen and (max-width: 780px) {
+	.row {
+    width: 100%;
+		max-width: 780px;
+		min-width: 480px;
+		margin: $row-margin; 
+		.col.span-1,
+    .col.span-2,
+    .col.span-3,
+    .col.span-4,
+    .col.span-5,
+    .col.span-6, 
+    .col.span-7,
+    .col.span-8,
+    .col.span-9,
+    .col.span-10,
+    .col.span-11 {
+			width: 50%; }
+		.col.span-12 {
+			width: 100%; }
+	}
+}
