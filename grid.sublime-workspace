@@ -1,0 +1,1240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mobile",
+				"mobile-menu"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"ad",
+				"addClass	.addClass()"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"enga",
+				"engaged-bckgnd"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass"
+			],
+			[
+				"par",
+				"parents	.parents()"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"men",
+				"menu-clicked"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"time",
+				"time-stamp"
+			],
+			[
+				"cour",
+				"course-status"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"cont",
+				"content-wrapper"
+			],
+			[
+				"syll",
+				"syllabus-template"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"add",
+				"add-course"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"my",
+				"media-library"
+			],
+			[
+				"border-right",
+				"border-right-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"c",
+				"crosshair"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border-left",
+				"border-left-color"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rea",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"ani",
+				"animate	animate"
+			],
+			[
+				"fad",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"an",
+				"animate	animate"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"mouse",
+				"mouseover	mouseover"
+			],
+			[
+				"fi",
+				"first	first"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function()"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ch",
+				"challenge"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"video",
+				"video-wrapper"
+			],
+			[
+				"san",
+				"sanchezregular-webfont"
+			],
+			[
+				"bot",
+				"bottom-wrapper"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"png",
+				"padding-bottom"
+			],
+			[
+				"js",
+				"jsdocinit	jquery-doc-init"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"SYN css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: html5"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: found",
+				"Snippet: Zurb Foundation - New Page"
+			],
+			[
+				"sni",
+				"Snippet: six columns"
+			],
+			[
+				"snp",
+				"Snippet: f4-panel"
+			],
+			[
+				"sn",
+				"Snippet: button"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet jquery",
+				"Snippet: jqueryinit"
+			],
+			[
+				"sni jQuery",
+				"Snippet: jquery-doc-init"
+			],
+			[
+				"snip",
+				"Snippet: jqueryinit"
+			],
+			[
+				"snip found",
+				"Snippet: Zurb Foundation - New Page"
+			],
+			[
+				"snip founda",
+				"Snippet: Zurb Foundation - New Page"
+			],
+			[
+				"snip fou",
+				"Snippet: Zurb Foundation - ul Block Grid - Two up"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kellysandoval/sass-project-1/sass/grid.scss",
+		"/Users/kellysandoval/sass-project-1/sftp-config.json",
+		"/Users/kellysandoval/sass-project-1/contact.kit",
+		"/Users/kellysandoval/sass-project-1/index.kit",
+		"/Users/kellysandoval/sass-project-1/header.kit",
+		"/Users/kellysandoval/sass-project-1/send-email.php",
+		"/Users/kellysandoval/sass-project-1/head.kit",
+		"/Users/kellysandoval/sass-project-1/work.kit",
+		"/Users/kellysandoval/sass-project-1/ajc-learning-platform.kit",
+		"/Users/kellysandoval/sass-project-1/hoochlife.kit",
+		"/Users/kellysandoval/sass-project-1/marisol-vacation-rentals.kit",
+		"/Users/kellysandoval/sass-project-1/remotely-manager-app.kit",
+		"/Users/kellysandoval/sass-project-1/remotely-resident-mobile-app.kit",
+		"/Users/kellysandoval/sass-project-1/remotely-tradeshow.kit",
+		"/Users/kellysandoval/sass-project-1/footer.kit",
+		"/Users/kellysandoval/sass-project-1/sass/base.scss",
+		"/Users/kellysandoval/sass-project-1/sass/variables.scss",
+		"/Users/kellysandoval/sass-project-1/sass/mixins.scss",
+		"/Users/kellysandoval/sass-project-1/index.html",
+		"/Users/kellysandoval/sass-project-1/sass/style.scss",
+		"/Users/kellysandoval/sass-project-1/sass/modals.scss",
+		"/Users/kellysandoval/sass-project-1/sass/mobile-menu.scss",
+		"/Users/kellysandoval/sass-project-1/css/style.css",
+		"/Users/kellysandoval/Desktop/testing grounds/blur-test.html",
+		"/Users/kellysandoval/sass-project-1/ajc-learning-platform.html",
+		"/Users/kellysandoval/sass-project-1/hoochlife.html",
+		"/Users/kellysandoval/sass-project-1/remotely-resident-mobile-app.html",
+		"/Users/kellysandoval/sass-project-1/sass/phone-base.scss",
+		"/Users/kellysandoval/sass-project-1/img/thumbs/marisol-thumb-hp.png",
+		"/Users/kellysandoval/sass-project-1/work.html",
+		"/Users/kellysandoval/sass-project-1/remotely-manager-app.html",
+		"/Users/kellysandoval/sass-project-1/projects/remotely-manager-app.kit",
+		"/Users/kellysandoval/sass-project-1/projects/remotely-manager-app.html",
+		"/Users/kellysandoval/sass-project-1/project-template.html",
+		"/Users/kellysandoval/sass-project-1/sass/webfonts.scss",
+		"/Users/kellysandoval/sass-project-1/sidnav.kit",
+		"/Users/kellysandoval/sass-project-1/mobile-header.html",
+		"/Users/kellysandoval/sass-project-1/mobile-header.kit",
+		"/Users/kellysandoval/sass-project-1/sass/tablet-base.scss",
+		"/Users/kellysandoval/sass-project-1/_notes/dwsync.xml",
+		"/Users/kellysandoval/sass-project-1/sass/slick-custom.scss",
+		"/Users/kellysandoval/sass-project-1/img/comps/ajc/ajc-hp-comp-modal.png",
+		"/Users/kellysandoval/sass-project-1/img/comps/remotely/remotely-ios-app-modal.png",
+		"/Users/kellysandoval/sass-project-1/sass/reset.scss",
+		"/Users/kellysandoval/sass-project-1/vendor/modernizr.custom.43357.js",
+		"/Users/kellysandoval/Desktop/testing grounds/off-canvas-menu.html",
+		"/Users/kellysandoval/sass-project-1/css/phone-base.css",
+		"/Users/kellysandoval/sass-project-1/css/base.css",
+		"/Users/kellysandoval/Desktop/testing grounds/slick-master/test.html",
+		"/Users/kellysandoval/Desktop/forms.html",
+		"/Users/kellysandoval/Library/Application Support/Sublime Text 2/Packages/User/snippets/htmldoc.sublime-snippet",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/css-exercise-1/boxox-model.html",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/css-exercise-1/css-exersice-1.html",
+		"/Users/kellysandoval/Downloads/webfontkit-20141116-233646/stylesheet.css",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/color/index.html",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/color/about-event.html",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/color/styles.css",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/css-exercise-1/css/styles.css",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/css-exercise-1/css/reset.css",
+		"/Users/kellysandoval/Desktop/personal/msu/CDES 3400/css-exercise-1/css/header.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/course-settings-mvp.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/assets/css/app.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/home.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/bank-account-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/payments-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/student-sign-up-email-massage.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-1.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-2-b.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-2-c.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-2.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-2b.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-up-teacher.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/teacher-sign-up-3.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/payment-form.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/add-video-update.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/add-video-form.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/home-old.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/courses-profile-template-logged-out.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/shopping-cart.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/assets/css/marketing.css",
+		"/Users/kellysandoval/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/syllabus-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/my-courses-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/add-slide-show-form.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/course-detail-first.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/course-detail-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/boi-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/media-library.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/courses-profile-template-student.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/shopping-cart-signed-in.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/courses-profile-template-signed-in.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/assets/js/app.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sign-in.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/enterprise-sign-up-1.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/enterprise-sign-up-2.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/student-sign-up-1.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/teacher-sign-up-1.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/teacher-sign-up-2.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-5.0.2/css/foundation.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/video-course.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/add-slide-show-form-alt.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/computer-svg.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/slide-show-course.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/slide-show-course-v2.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/quiz-course.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/course-settings-template.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/forgot-password.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/courses-profile-template.html",
+		"/Users/kellysandoval/Desktop/configure-units-modal.html",
+		"/Users/kellysandoval/Desktop/inbox.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/sample-chart.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/content/data.tsv",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-5.0.2/js/jquery.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/send-email.php",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/index.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-5.0.2/js/vendor/jquery.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/assets/css/webfonts.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-5.0.2/js/vendor/jquery.cookie.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/archive/foundation-4.3.2.custom/css/foundation.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-5.0.2/js/foundation.min.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/add-slide-show-form-completed.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/archive/slide-show-course-old.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/foundation-4.3.2.custom/css/foundation.css",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/teacher-sign-up-4.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/teacher-sign-up-2-2.html",
+		"/Users/kellysandoval/Desktop/welcomeemail.html",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/assets/js/jquery.textchange.min.js",
+		"/Users/kellysandoval/Desktop/personal/bonobo/beta/create-course-proto-5.0.2.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$grey-darker",
+			"Case Study",
+			"$grey-darker",
+			"btn",
+			"$grey-mid-light",
+			"100",
+			"Releated",
+			"modal2",
+			"hooch",
+			"ajc",
+			"grid",
+			" class=\"mobile\"",
+			"remotely",
+			"manager_app",
+			"_",
+			"transition",
+			"inner-page",
+			"3",
+			"img",
+			";\n",
+			"img",
+			"View Detail",
+			"btn",
+			"h3",
+			".text-center {\n	text-align: center; }",
+			".text-center",
+			"btn",
+			"modal",
+			"modal-bckgnd",
+			"2.333",
+			"35",
+			"div",
+			"prepare_markup();",
+			"$('.content-wrapper').toggleClass('static');",
+			"addClass",
+			"transform",
+			"Qucik View",
+			"6",
+			"5",
+			"6",
+			"5",
+			"black",
+			"h5",
+			"5",
+			"translate",
+			"translate3",
+			"white",
+			"hover-grid",
+			"boom",
+			"<div class=\"hover-grid\">\n						<h5 class=\"text-center\">Shift 1</h5>\n						<p class=\"text-center\">&mdash;</p>\n						<p class=\"text-center tags\">Design & Branding</p>\n						<p><a href=\"#slider-position\" class=\"btn white trigger-modal\" data-info=\"modal2\">Qucik View</a></p>\n					</div>",
+			"work-grid",
+			"}",
+			".donut-wrapper ",
+			"h3",
+			"trigger-modal",
+			"h6",
+			"white",
+			"src",
+			"style=\"border:1px solid #ff0000;\"",
+			"3",
+			"100",
+			" font-weight: normal;",
+			"255",
+			"28",
+			"5",
+			"modal-",
+			":",
+			"span-1",
+			"1",
+			"-",
+			"select",
+			"50",
+			"2",
+			"30",
+			"20",
+			"span",
+			"top-border",
+			"op-border",
+			"label",
+			"secondary",
+			"5",
+			"2",
+			"10",
+			"2",
+			".top",
+			"label",
+			"1",
+			"large-offset-2 ",
+			"10",
+			"h1",
+			"row",
+			"h1",
+			"p",
+			"right",
+			"content-wrapper",
+			"3",
+			"courses",
+			"Courses",
+			"8",
+			"10",
+			"#sign-up ",
+			"#sign-up",
+			"4",
+			"stamp",
+			".course-module",
+			"logo-tag",
+			"15px",
+			"red",
+			"medium",
+			"large",
+			"section",
+			"slide",
+			".slide",
+			".slide ",
+			"#clone_wrapper",
+			"slide-show",
+			"section",
+			"Course",
+			"course",
+			"Course",
+			"h5",
+			"1",
+			"h4",
+			"h6",
+			"course-profile-template.html",
+			"2",
+			"10",
+			"Jill"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bas",
+				"sass/base.scss"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ph",
+				"sass/phone-base.scss"
+			],
+			[
+				"re",
+				"sass/reset.scss"
+			],
+			[
+				"home",
+				"home.html"
+			],
+			[
+				"app",
+				"assets/css/app.css"
+			],
+			[
+				"set",
+				"course-settings-mvp.html"
+			],
+			[
+				"bank",
+				"bank-account-template.html"
+			],
+			[
+				"shop",
+				"shopping-cart.html"
+			],
+			[
+				"ap",
+				"assets/css/app.css"
+			],
+			[
+				"mar",
+				"assets/css/marketing.css"
+			],
+			[
+				"pay",
+				"payments-template.html"
+			],
+			[
+				"boi",
+				"boi-template.html"
+			],
+			[
+				"tea",
+				"teacher-sign-up-2.html"
+			],
+			[
+				"ent",
+				"enterprise-sign-up-1.html"
+			],
+			[
+				"vid",
+				"video-course.html"
+			],
+			[
+				"s",
+				"syllabus-template.html"
+			],
+			[
+				"ofund",
+				"foundation-5.0.2/css/foundation.css"
+			],
+			[
+				"fou",
+				"foundation-5.0.2/css/foundation.css"
+			],
+			[
+				"slide",
+				"slide-show-course.html"
+			],
+			[
+				"mark",
+				"assets/css/marketing.css"
+			],
+			[
+				"cou",
+				"video-course.html"
+			],
+			[
+				"ad",
+				"add-video-form.html"
+			],
+			[
+				"vide",
+				"video-course.html"
+			],
+			[
+				"c",
+				"courses-profile-template.html"
+			],
+			[
+				"foun",
+				"foundation-5.0.2/css/foundation.css"
+			],
+			[
+				"sy",
+				"syllabus-template.html"
+			],
+			[
+				"hom",
+				"home.html"
+			],
+			[
+				"my",
+				"my-courses-template.html"
+			],
+			[
+				"qui",
+				"quiz-course.html"
+			],
+			[
+				"add",
+				"add-video-form.html"
+			],
+			[
+				"found",
+				"foundation-5.0.2/css/foundation.css"
+			],
+			[
+				"we",
+				"assets/css/webfonts.css"
+			],
+			[
+				"aound",
+				"archive/foundation-4.3.2.custom/css/foundation.css"
+			],
+			[
+				"foud",
+				"foundation-5.0.2/css/foundation.css"
+			],
+			[
+				"app.j",
+				"assets/js/app.js"
+			],
+			[
+				"course",
+				"course-detail-template.html"
+			],
+			[
+				"fond",
+				"foundation-4.3.2.custom/css/foundation.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"a",
+				"assets/css/app.css"
+			],
+			[
+				"how",
+				"how-fed-jobs-are-filled/intro.php"
+			],
+			[
+				"types",
+				"types-of-vets-preferences/types-of-veterans-preference.php"
+			],
+			[
+				"header",
+				"includes/header.php"
+			],
+			[
+				"more",
+				"resume/more-military-language.php"
+			],
+			[
+				"fed",
+				"resume/federal-occupations.php"
+			],
+			[
+				"task",
+				"resume/tasks-activities.php"
+			],
+			[
+				"resusec",
+				"includes/resume-section-nav.php"
+			],
+			[
+				"con",
+				"resume/conclusion.php"
+			],
+			[
+				"cover",
+				"resume/cover-letters.php"
+			],
+			[
+				"ref",
+				"resume/references.php"
+			],
+			[
+				"skil",
+				"resume/skills-experience.php"
+			],
+			[
+				"high",
+				"resume/highlights-of-qualifications.php"
+			],
+			[
+				"object",
+				"resume/objective-statement.php"
+			],
+			[
+				"resume",
+				"resume/resume-formats.php"
+			],
+			[
+				"conta",
+				"resume/contact-info.php"
+			],
+			[
+				"contac",
+				"resume/contact-info.php"
+			],
+			[
+				"where",
+				"resume/where-to-begin.php"
+			],
+			[
+				"mili",
+				"resume/military-vs-civilian-resume.php"
+			],
+			[
+				"train",
+				"resume/training-education.php"
+			],
+			[
+				"conc",
+				"interview/conclusion.php"
+			],
+			[
+				"sar",
+				"resume/sar-star.php"
+			],
+			[
+				"refer",
+				"resume/references.php"
+			],
+			[
+				"ap.",
+				"css/app.css"
+			],
+			[
+				"obje",
+				"resume/objective-statement.php"
+			],
+			[
+				"civi",
+				"resume/civilianizing-a-resume.php"
+			],
+			[
+				"mil",
+				"resume/military-vs-civilian-resume.php"
+			],
+			[
+				"app.c",
+				"css/app.css"
+			],
+			[
+				"cont",
+				"resume/contact-info.php"
+			],
+			[
+				"trai",
+				"resume/training-education.php"
+			],
+			[
+				"get",
+				"interview/getting-ready.php"
+			],
+			[
+				"civ",
+				"resume/civilianizing-a-resume.php"
+			],
+			[
+				"mi",
+				"military-vs-civilian-resume.php"
+			],
+			[
+				"interthe",
+				"interview/the-interview.php"
+			],
+			[
+				"intermil",
+				"interview/military-experience-translated.php"
+			],
+			[
+				"intersec",
+				"interview/interview-section-nav.php"
+			],
+			[
+				"intermod",
+				"interview/interview-module-landing.php"
+			],
+			[
+				"app.css",
+				"assets/css/app.css"
+			],
+			[
+				".css",
+				"assets/css/app.css"
+			],
+			[
+				"ran",
+				"random.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true
+}
